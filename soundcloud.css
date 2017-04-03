@@ -1,0 +1,31 @@
+.cover{
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.cover img{
+  height: 500px;
+}
+.buttons{
+  margin:auto auto;
+  text-align: center;
+}
+
+#play{
+  font-size: 125px;
+
+}
+#pause{
+  font-size: 125px;
+  display: none;
+}
+#description{
+  /*overflow: hidden;
+  max-width: 50ch;*/
+
+}
+.centerText{
+  text-align: center;
+
+}
